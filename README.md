@@ -1,4 +1,4 @@
-The dataset contains information about 205 animals, with 16 attributes describing various aspects of each species. Here's an overview of the columns:
+The dataset taken from kaggle.com and it contains information about 205 animals, with 16 attributes describing various aspects of each species. Here's an overview of the columns:
 
 Animal: Name of the species.
 Height (cm): Range of height in centimeters.
